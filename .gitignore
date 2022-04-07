@@ -64,6 +64,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-# firebase 설정관련 js file
-public/config.js
